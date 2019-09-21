@@ -1,0 +1,70 @@
+.location-modal {
+  box-shadow: 0 5px 20px 0 rgba(0, 0, 0, 0.13);
+  border-radius: 10px;
+  width: 80%;
+  margin: 20px auto;
+}
+.carousel-home {
+  margin: 0 auto 100px;
+  padding-top: 20px;
+}
+
+.carousel-inner {
+  -webkit-box-shadow: 0px 0px 5px -2px rgba(82, 96, 255, 1);
+  -moz-box-shadow: 0px 0px 5px -2px rgba(82, 96, 255, 1);
+  box-shadow: 0px 0px 5px -2px rgba(82, 96, 255, 1);
+  height: 400px;
+}
+.indicImg {
+  position: relative;
+}
+.indicImg li {
+  width: 150px;
+  height: fit-content;
+}
+.carousel-inner * {
+  height: 100%
+}
+.slide {
+  width: 70%;
+  margin: 0 auto;
+}
+.carousel-control-next,
+.carousel-control-prev {
+  height: 400px;
+}
+.carousel-indicators {
+  margin-right: 0;
+  margin-left: 0;
+  display: flex;
+  justify-content: space-between;
+}
+.rateContainer {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 535px;
+  margin: 0 auto;
+  padding: 10px;
+}
+.comments {
+  width: 100%;
+  display:flex;
+  flex-direction: column;
+}
+.up{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.dname{
+  display: flex;
+  flex-direction: column;
+}
+.MuiRating-root {
+  margin-right: 50px !important;
+}
+.downside {
+  width: 300px;
+}
