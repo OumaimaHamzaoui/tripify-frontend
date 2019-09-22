@@ -20,3 +20,19 @@
 .App-link {
   color: #09d3ac;
 }
+.makeStyles-card-122 {
+
+  max-width: 345px;
+  margin-top:50px;
+
+  
+}
+.main{
+  display: flex;
+
+flex-wrap: wrap;
+  flex-direction: row;
+  display: flex;
+  justify-content: space-between;
+  padding: 50px;
+}
